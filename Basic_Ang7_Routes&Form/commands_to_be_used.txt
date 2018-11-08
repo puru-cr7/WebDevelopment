@@ -1,0 +1,8 @@
+node i -g @angular/cli
+ng new ang7app
+ng serve -o
+ng g c nav
+ng g c contact
+ng g c home
+ng g s data
+ng build --prod

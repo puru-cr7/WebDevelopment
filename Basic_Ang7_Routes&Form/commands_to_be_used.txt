@@ -5,4 +5,4 @@ ng g c nav
 ng g c contact
 ng g c home
 ng g s data
-ng build --prod
+ng build  --prod --base-href /static/test_email_app/ --this command is bcz of integration with django, the folder structure is static/test_email_app

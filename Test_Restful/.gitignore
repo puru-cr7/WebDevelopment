@@ -2,3 +2,4 @@
 build/
 dist/
 test_rest.egg-info/
+.pydevproject

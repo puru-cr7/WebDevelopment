@@ -3,7 +3,7 @@ REST-auth
 
 The Original Source of these code is from-
 
-Companion application to my [RESTful Authentication with Flask](http://blog.miguelgrinberg.com/post/restful-authentication-with-flask) article.
+https://github.com/miguelgrinberg/REST-auth
 
 Installation
 ------------

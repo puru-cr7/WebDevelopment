@@ -1,0 +1,5 @@
+docker build -t tomcat-docker-test-image .
+docker run --name tomcatRunner -p 8081:8080 -d tomcat-docker-test-image
+
+docker stop tomcatRunner
+docker rm tomcatRunner
